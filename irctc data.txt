@@ -1,0 +1,312 @@
+
+Q: What is IRCTC?
+A: IRCTC is the official online platform for booking Indian Railway tickets.
+
+Q: How can I create an IRCTC account?
+A: You can register on the IRCTC website or mobile app using your email and mobile number.
+
+Q: How do I log in to IRCTC?
+A: Enter your username and password on the login page.
+
+Q: How can I book a train ticket?
+A: Select source, destination, date, choose a train, and complete payment.
+
+Q: Can I book tickets without login?
+A: No, login is required to book tickets.
+
+Q: What is Tatkal booking?
+A: Tatkal is a scheme for last-minute ticket booking.
+
+Q: What is Tatkal booking time?
+A: AC at 10 AM and non-AC at 11 AM.
+
+Q: What is Premium Tatkal?
+A: It is a dynamic pricing Tatkal scheme with higher charges.
+
+Q: What is PNR number?
+A: PNR is a unique number for your booked ticket.
+
+Q: How to check PNR status?
+A: Enter your PNR number on the IRCTC website or app.
+
+Q: What does RAC mean?
+A: Reservation Against Cancellation allows partial travel.
+
+Q: What is waitlist?
+A: It means your ticket is not yet confirmed.
+
+Q: Can waitlist tickets get confirmed?
+A: Yes, based on cancellations.
+
+Q: What is chart preparation?
+A: Final seat allocation before departure.
+
+Q: When is chart prepared?
+A: Usually 4 hours before departure.
+
+Q: Can I cancel my ticket?
+A: Yes, through the IRCTC app or website.
+
+Q: How to cancel ticket?
+A: Go to My Bookings and select cancel option.
+
+Q: What is refund policy?
+A: Refund depends on cancellation timing.
+
+Q: How long does refund take?
+A: Usually 3 to 7 working days.
+
+Q: Can I change travel date?
+A: No, you must cancel and rebook.
+
+Q: Can I change passenger name?
+A: Only in limited cases with railway permission.
+
+Q: What is e-ticket?
+A: A digital ticket booked online.
+
+Q: Is printout required?
+A: No, SMS or digital copy is enough.
+
+Q: Is ID proof mandatory?
+A: Yes, valid ID is required during travel.
+
+Q: What payment methods are available?
+A: UPI, cards, net banking, wallets.
+
+Q: What is IRCTC wallet?
+A: A prepaid wallet for faster payments.
+
+Q: What is boarding station?
+A: The station where you board the train.
+
+Q: Can I change boarding station?
+A: Yes, before chart preparation.
+
+Q: What is general quota?
+A: Normal booking quota for passengers.
+
+Q: What is ladies quota?
+A: Reserved seats for female passengers.
+
+Q: What is senior citizen quota?
+A: Reserved seats for senior citizens.
+
+Q: What is lower berth quota?
+A: Allocation for passengers needing lower berth.
+
+Q: Can I choose my seat?
+A: Preference can be selected but not guaranteed.
+
+Q: What is sleeper class?
+A: Non-AC class with sleeping berths.
+
+Q: What is AC class?
+A: Air-conditioned travel class.
+
+Q: What is 3AC?
+A: AC coach with 3-tier berths.
+
+Q: What is 2AC?
+A: AC coach with 2-tier berths.
+
+Q: What is 1AC?
+A: Premium AC class with private cabins.
+
+Q: What is GNWL?
+A: General Waitlist.
+
+Q: What is RLWL?
+A: Remote Location Waitlist.
+
+Q: What is PQWL?
+A: Pooled Quota Waitlist.
+
+Q: What is CNF status?
+A: Confirmed ticket.
+
+Q: What is chart vacancy?
+A: Seats available after chart preparation.
+
+Q: Can I book tickets after chart?
+A: Yes, through current booking.
+
+Q: What is current booking?
+A: Booking after chart preparation.
+
+Q: Can I travel with RAC ticket?
+A: Yes, with shared seat.
+
+Q: What happens if ticket is not confirmed?
+A: You may not be allowed to board.
+
+Q: What is cancellation charge?
+A: Fee deducted on ticket cancellation.
+
+Q: Can I cancel Tatkal ticket?
+A: Yes, but refund rules differ.
+
+Q: Is refund given for Tatkal?
+A: Usually no refund for confirmed tickets.
+
+Q: What is IRCTC app?
+A: Official mobile app for booking tickets.
+
+Q: Is IRCTC safe?
+A: Yes, it is a government platform.
+
+Q: Can I book for others?
+A: Yes, you can book tickets for others.
+
+Q: What is maximum tickets per month?
+A: Limited based on account type.
+
+Q: What is OTP verification?
+A: One-time password for security.
+
+Q: Can I use same account on multiple devices?
+A: Yes.
+
+Q: What is train schedule?
+A: Timings and route of train.
+
+Q: How to check train availability?
+A: Use search option on IRCTC.
+
+Q: What is seat availability?
+A: Number of available seats.
+
+Q: What is fare enquiry?
+A: Checking ticket cost.
+
+Q: What is dynamic pricing?
+A: Fare changes based on demand.
+
+Q: What is cancellation window?
+A: Time period allowed for cancellation.
+
+Q: Can I get full refund?
+A: Only if cancelled early.
+
+Q: What is waiting list refund?
+A: Full refund if not confirmed.
+
+Q: Can I file TDR?
+A: Yes, for refund claims.
+
+Q: What is TDR?
+A: Ticket Deposit Receipt.
+
+Q: When to file TDR?
+A: If you did not travel.
+
+Q: What is meal booking?
+A: Pre-order food in train.
+
+Q: Can I order food online?
+A: Yes, via IRCTC e-catering.
+
+Q: What is e-catering?
+A: Food delivery service in trains.
+
+Q: What is train delay?
+A: Train running late.
+
+Q: How to check live train status?
+A: Use IRCTC or railway apps.
+
+Q: What is platform number?
+A: Track where train arrives.
+
+Q: Can I track train location?
+A: Yes, using live tracking.
+
+Q: What is railway enquiry number?
+A: Helpline for railway queries.
+
+Q: What is luggage rule?
+A: Limit on baggage allowed.
+
+Q: Can I carry pets?
+A: Yes, with rules.
+
+Q: What is IRCTC tourism?
+A: Travel packages by IRCTC.
+
+Q: What is train number?
+A: Unique number for each train.
+
+Q: What is coach number?
+A: Identifier for train coach.
+
+Q: What is berth number?
+A: Seat number in coach.
+
+Q: What is side lower berth?
+A: Lower side seat in sleeper.
+
+Q: What is side upper berth?
+A: Upper side seat.
+
+Q: What is window seat?
+A: Seat near window.
+
+Q: Can I upgrade ticket?
+A: Yes, via auto upgrade.
+
+Q: What is auto upgrade?
+A: Upgrade to higher class if available.
+
+Q: What is booking history?
+A: List of past bookings.
+
+Q: Can I download ticket?
+A: Yes, from app or website.
+
+Q: What is cancellation history?
+A: Record of cancelled tickets.
+
+Q: What is IRCTC login error?
+A: Issue accessing account.
+
+Q: What to do if payment fails?
+A: Retry or check refund.
+
+Q: What is refund status?
+A: Current state of refund.
+
+Q: Can I use UPI?
+A: Yes, UPI is supported.
+
+Q: What is net banking?
+A: Payment via bank account.
+
+Q: What is debit card?
+A: Card linked to bank account.
+
+Q: What is credit card?
+A: Card with credit limit.
+
+Q: Can I book international tickets?
+A: No, only Indian Railways.
+
+Q: What is concession?
+A: Discount for eligible passengers.
+
+Q: Who gets concession?
+A: Senior citizens and special categories.
+
+Q: What is IRCTC password reset?
+A: Process to recover password.
+
+Q: Can I change email?
+A: Yes, in profile settings.
+
+Q: What is mobile verification?
+A: Confirming phone number.
+
+Q: Can I delete account?
+A: Yes, by request.
+
+Q: What is IRCTC helpline?
+A: Customer support service.
