@@ -3,13 +3,6 @@
 A simple AI-powered chatbot built using Python, Streamlit, Ollama, and DeepSeek-R1 local model.
 This chatbot helps users with basic IRCTC queries like ticket booking, Tatkal booking, cancellations, and railway-related support.
 
----
-
-## 📸 Project Screenshot
-
-![IRCTC Chatbot](Project%20out.png)
-
----
 
 ## 🔹 Technologies Used
 
@@ -39,6 +32,10 @@ ollama run deepseek-r1:1.5b
 python -m streamlit run app.py
 ```
 
-## 👨‍💻 Developed By
+---
 
-Henin
+## 📸 Project Screenshot
+
+![IRCTC Chatbot](Project%20out.png)
+
+---
