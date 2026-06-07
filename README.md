@@ -34,7 +34,7 @@ python -m streamlit run app.py
 
 ---
 
-## 📸 Project Screenshot
+## 📸 OUTPUT
 
 ![IRCTC Chatbot](out.png)
 
